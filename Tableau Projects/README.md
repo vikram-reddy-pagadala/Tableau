@@ -13,6 +13,6 @@ https://public.tableau.com/app/profile/vikram.reddy.pagadala/
 
 ## **Screenshots**
 
-1. HR Analytics Dashboard
+####  **1. HR Analytics Dashboard**
 
 ![alt text](image.png)
