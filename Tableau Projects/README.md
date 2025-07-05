@@ -16,3 +16,7 @@ https://public.tableau.com/app/profile/vikram.reddy.pagadala/
 ####  **1. HR Analytics Dashboard**
 
 ![alt text](image.png)
+
+#### **2. Ecommerce Sales Dashboard**
+
+![alt text](<ECOMMERCE SALES DASHBOARD.png>)
